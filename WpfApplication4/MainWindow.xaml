@@ -4,9 +4,9 @@
         Title="MainWindow" Height="350" Width="525">
     <Grid>
     	<Grid.ColumnDefinitions>
-    		<ColumnDefinition Width="95.556"/>
-    		<ColumnDefinition Width="56.603"/>
-    		<ColumnDefinition Width="358.441"/>
+    		<ColumnDefinition Width="95.6"/>
+    		<ColumnDefinition Width="56.6"/>
+    		<ColumnDefinition Width="358.5"/>
     	</Grid.ColumnDefinitions>
         <Button Content="按键1" Height="24.8" Margin="128,43.4,168.8,0" VerticalAlignment="Top" RenderTransformOrigin="1.221,0.226" Grid.Column="2" Click="Button_Click">
         	<Button.Background>
