@@ -1,0 +1,11 @@
+E:\科研\726-横向项目\code-gui\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe
+E:\科研\726-横向项目\code-gui\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.pdb
+E:\科研\726-横向项目\code-gui\WpfApplication4\WpfApplication4\obj\x86\Debug\MainWindow.baml
+E:\科研\726-横向项目\code-gui\WpfApplication4\WpfApplication4\obj\x86\Debug\MainWindow.g.cs
+E:\科研\726-横向项目\code-gui\WpfApplication4\WpfApplication4\obj\x86\Debug\App.g.cs
+E:\科研\726-横向项目\code-gui\WpfApplication4\WpfApplication4\obj\x86\Debug\WpfApplication4_MarkupCompile.cache
+E:\科研\726-横向项目\code-gui\WpfApplication4\WpfApplication4\obj\x86\Debug\WpfApplication4.g.resources
+E:\科研\726-横向项目\code-gui\WpfApplication4\WpfApplication4\obj\x86\Debug\WpfApplication4.Properties.Resources.resources
+E:\科研\726-横向项目\code-gui\WpfApplication4\WpfApplication4\obj\x86\Debug\WpfApplication4.csproj.GenerateResource.Cache
+E:\科研\726-横向项目\code-gui\WpfApplication4\WpfApplication4\obj\x86\Debug\WpfApplication4.exe
+E:\科研\726-横向项目\code-gui\WpfApplication4\WpfApplication4\obj\x86\Debug\WpfApplication4.pdb

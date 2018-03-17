@@ -1,0 +1,34 @@
+﻿<Window x:Class="WpfApplication4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+    	<Grid.ColumnDefinitions>
+    		<ColumnDefinition Width="95.556"/>
+    		<ColumnDefinition Width="56.603"/>
+    		<ColumnDefinition Width="358.441"/>
+    	</Grid.ColumnDefinitions>
+        <Button Content="按键1" Height="24.8" Margin="128,43.4,168.8,0" VerticalAlignment="Top" RenderTransformOrigin="1.221,0.226" Grid.Column="2" Click="Button_Click">
+        	<Button.Background>
+        		<LinearGradientBrush EndPoint="1.078,7.29" StartPoint="1.117,7.613">
+        			<GradientStop Color="#FFF3F3F3" Offset="0"/>
+        			<GradientStop Color="#FFEBEBEB" Offset="0.5"/>
+        			<GradientStop Color="#FFDDDDDD" Offset="0.5"/>
+        			<GradientStop Color="#FF4BBF45" Offset="1"/>
+        		</LinearGradientBrush>
+        	</Button.Background>
+        </Button>
+        <ComboBox HorizontalAlignment="Left" Height="25.6" Margin="9.6,43.4,0,0" VerticalAlignment="Top" Width="61.6" Grid.Column="2">
+            <ComboBox Width="120"/>
+        </ComboBox>
+        <Rectangle Grid.Column="2" Fill="#FF45459F" HorizontalAlignment="Left" Margin="-31.959,118.6,0,129.8" Stroke="Black" Width="209.6"/>
+        <Ellipse Grid.Column="2" HorizontalAlignment="Right" Height="60" Margin="0,95.4,67.2,0" Stroke="Black" VerticalAlignment="Top" Width="62.4">
+        	<Ellipse.Fill>
+        		<LinearGradientBrush EndPoint="0.684,1.714" StartPoint="-0.243,1.51">
+        			<GradientStop Color="#FFAC2370" Offset="0"/>
+        			<GradientStop Color="White" Offset="1"/>
+        		</LinearGradientBrush>
+        	</Ellipse.Fill>
+        </Ellipse>
+    </Grid>
+</Window>
