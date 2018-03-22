@@ -16,7 +16,7 @@
 		<TextBlock Grid.Column="1" Margin="120,61.837,104,72.22" TextWrapping="Wrap" Text="TextBlock"/>
 		<TextBlock Margin="112,71.78,96,87.2" Grid.Row="1" TextWrapping="Wrap" Text="TB1"/>
 		<TextBlock Grid.Column="1" Margin="104,55.78,104,103.2" Grid.Row="1" TextWrapping="Wrap" Text="TextBlock"/>
-		<Button Content="Button" Grid.Column="1" Height="24" Margin="120,0,176,87.2" Grid.Row="1" VerticalAlignment="Bottom"/>
+		<Button Content="按键0322" Grid.Column="1" Height="24" Margin="120,0,176,87.2" Grid.Row="1" VerticalAlignment="Bottom"/>
 		<Button Content="Button" Grid.Column="1" Height="24" Margin="104,0,184,48.22" VerticalAlignment="Bottom"/>
 		<Grid HorizontalAlignment="Left" Height="24" Margin="88,0,0,48.22" VerticalAlignment="Bottom" Width="88">
 			<Button Content="Button"/>

@@ -14,3 +14,19 @@ E:\科研\726-横向项目\code-gui\WpfApplication4\WpfApplication4\bin\Debug\Mi
 E:\科研\726-横向项目\code-gui\WpfApplication4\WpfApplication4\obj\x86\Debug\WpfApplication4.csprojResolveAssemblyReference.cache
 E:\科研\726-横向项目\code-gui\WpfApplication4\WpfApplication4\obj\x86\Debug\Simple Styles.baml
 E:\科研\726-横向项目\code-gui\WpfApplication4\WpfApplication4\obj\x86\Debug\App.baml
+F:\科研\726-横向项目\code-gui\WpfApplication4\WpfApplication4\obj\x86\Debug\WpfApplication4.exe
+F:\科研\726-横向项目\code-gui\WpfApplication4\WpfApplication4\obj\x86\Debug\WpfApplication4.pdb
+F:\科研\726-横向项目\code-gui\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe
+F:\科研\726-横向项目\code-gui\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.pdb
+F:\科研\726-横向项目\code-gui\WpfApplication4\WpfApplication4\bin\Debug\Microsoft.Expression.Drawing.dll
+F:\科研\726-横向项目\code-gui\WpfApplication4\WpfApplication4\bin\Debug\Microsoft.Expression.Drawing.xml
+F:\科研\726-横向项目\code-gui\WpfApplication4\WpfApplication4\obj\x86\Debug\WpfApplication4.csprojResolveAssemblyReference.cache
+F:\科研\726-横向项目\code-gui\WpfApplication4\WpfApplication4\obj\x86\Debug\MainWindow.baml
+F:\科研\726-横向项目\code-gui\WpfApplication4\WpfApplication4\obj\x86\Debug\Simple Styles.baml
+F:\科研\726-横向项目\code-gui\WpfApplication4\WpfApplication4\obj\x86\Debug\App.baml
+F:\科研\726-横向项目\code-gui\WpfApplication4\WpfApplication4\obj\x86\Debug\MainWindow.g.cs
+F:\科研\726-横向项目\code-gui\WpfApplication4\WpfApplication4\obj\x86\Debug\App.g.cs
+F:\科研\726-横向项目\code-gui\WpfApplication4\WpfApplication4\obj\x86\Debug\WpfApplication4_MarkupCompile.cache
+F:\科研\726-横向项目\code-gui\WpfApplication4\WpfApplication4\obj\x86\Debug\WpfApplication4.g.resources
+F:\科研\726-横向项目\code-gui\WpfApplication4\WpfApplication4\obj\x86\Debug\WpfApplication4.Properties.Resources.resources
+F:\科研\726-横向项目\code-gui\WpfApplication4\WpfApplication4\obj\x86\Debug\WpfApplication4.csproj.GenerateResource.Cache
