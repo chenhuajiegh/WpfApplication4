@@ -9,3 +9,8 @@ E:\科研\726-横向项目\code-gui\WpfApplication4\WpfApplication4\obj\x86\Debu
 E:\科研\726-横向项目\code-gui\WpfApplication4\WpfApplication4\obj\x86\Debug\WpfApplication4.csproj.GenerateResource.Cache
 E:\科研\726-横向项目\code-gui\WpfApplication4\WpfApplication4\obj\x86\Debug\WpfApplication4.exe
 E:\科研\726-横向项目\code-gui\WpfApplication4\WpfApplication4\obj\x86\Debug\WpfApplication4.pdb
+E:\科研\726-横向项目\code-gui\WpfApplication4\WpfApplication4\bin\Debug\Microsoft.Expression.Drawing.dll
+E:\科研\726-横向项目\code-gui\WpfApplication4\WpfApplication4\bin\Debug\Microsoft.Expression.Drawing.xml
+E:\科研\726-横向项目\code-gui\WpfApplication4\WpfApplication4\obj\x86\Debug\WpfApplication4.csprojResolveAssemblyReference.cache
+E:\科研\726-横向项目\code-gui\WpfApplication4\WpfApplication4\obj\x86\Debug\Simple Styles.baml
+E:\科研\726-横向项目\code-gui\WpfApplication4\WpfApplication4\obj\x86\Debug\App.baml
