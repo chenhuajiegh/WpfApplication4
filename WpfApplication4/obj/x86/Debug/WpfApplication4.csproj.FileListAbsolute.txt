@@ -30,3 +30,11 @@ F:\科研\726-横向项目\code-gui\WpfApplication4\WpfApplication4\obj\x86\Debu
 F:\科研\726-横向项目\code-gui\WpfApplication4\WpfApplication4\obj\x86\Debug\WpfApplication4.g.resources
 F:\科研\726-横向项目\code-gui\WpfApplication4\WpfApplication4\obj\x86\Debug\WpfApplication4.Properties.Resources.resources
 F:\科研\726-横向项目\code-gui\WpfApplication4\WpfApplication4\obj\x86\Debug\WpfApplication4.csproj.GenerateResource.Cache
+E:\科研\726-横向项目\code-gui\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe.config
+E:\科研\726-横向项目\code-gui\WpfApplication4\WpfApplication4\bin\Debug\EntityFramework.dll
+E:\科研\726-横向项目\code-gui\WpfApplication4\WpfApplication4\bin\Debug\EntityFramework.SqlServer.dll
+E:\科研\726-横向项目\code-gui\WpfApplication4\WpfApplication4\bin\Debug\System.Data.SQLite.dll
+E:\科研\726-横向项目\code-gui\WpfApplication4\WpfApplication4\bin\Debug\System.Data.SQLite.EF6.dll
+E:\科研\726-横向项目\code-gui\WpfApplication4\WpfApplication4\bin\Debug\EntityFramework.xml
+E:\科研\726-横向项目\code-gui\WpfApplication4\WpfApplication4\bin\Debug\EntityFramework.SqlServer.xml
+E:\科研\726-横向项目\code-gui\WpfApplication4\WpfApplication4\bin\Debug\System.Data.SQLite.xml

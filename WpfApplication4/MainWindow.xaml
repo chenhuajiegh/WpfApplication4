@@ -12,29 +12,40 @@
 		<ListView Name="listView1" MinWidth="280" >
             <ListView.View>
                 <GridView x:Name="gridView1">
+                	
+					<GridViewColumn Header="ContactID" DisplayMemberBinding="{Binding Path=ContactID}"></GridViewColumn>
+                    <GridViewColumn Header="FirstName" DisplayMemberBinding="{Binding Path=FirstName}"></GridViewColumn>
+                    <GridViewColumn Header="LastName" DisplayMemberBinding="{Binding Path=LastName}"></GridViewColumn>
+                    <GridViewColumn Header="EmailAddress" DisplayMemberBinding="{Binding Path=EmailAddress}"></GridViewColumn>
+					<!--
                     <GridViewColumn Header="ContactID"></GridViewColumn>
                     <GridViewColumn Header="FirstName"></GridViewColumn>
                     <GridViewColumn Header="LastName"></GridViewColumn>
                     <GridViewColumn Header="EmailAddress"></GridViewColumn>
+					-->
                 </GridView>
             </ListView.View>
         </ListView>
-        <WrapPanel Grid.Row="1" Orientation="Horizontal">
+        <WrapPanel Grid.Row="1" Orientation="Horizontal" DataContext="{Binding ElementName=listView1,Path=SelectedItem}">
             <StackPanel Orientation="Horizontal" Margin="5,2,5,2">
                 <TextBlock Name="textBlock_ContactID" Text="ContactID:" />
-                <TextBox Name="textBox_ContactID" MinWidth="100" />
+                <!--<TextBox Name="textBox_ContactID" MinWidth="100" />-->
+				<TextBox Name="textBox_ContactID" MinWidth="100" Text="{Binding ContactID}" />
             </StackPanel>
             <StackPanel Orientation="Horizontal" Margin="5,2,5,2">
                 <TextBlock Name="textBlock_FirstName" Text="FirstName:" />
-                <TextBox Name="textBox_FirstName" MinWidth="100" />
+                <!--<TextBox Name="textBox_FirstName" MinWidth="100" />-->
+				<TextBox Name="textBox_FirstName" MinWidth="100" Text="{Binding FirstName,UpdateSourceTrigger=PropertyChanged }" />
             </StackPanel>
             <StackPanel Orientation="Horizontal" Margin="5,2,5,2">
                 <TextBlock Name="textBlock_LastName" Text="LastName:" />
-                <TextBox Name="textBox_LastName" MinWidth="100" />
+                <!--<TextBox Name="textBox_LastName" MinWidth="100" />-->
+				<TextBox Name="textBox_LastName" MinWidth="100" Text="{Binding LastName}" />
             </StackPanel>
             <StackPanel Orientation="Horizontal" Margin="5,2,5,2">
                 <TextBlock Name="textBlock_EmailAddress" Text="EmailAddress:" />
-                <TextBox Name="textBox_EmailAddress" MinWidth="100" />
+                <!--<TextBox Name="textBox_EmailAddress" MinWidth="100" />-->
+				<TextBox Name="textBox_EmailAddress" MinWidth="100" Text="{Binding EmailAddress}" />
             </StackPanel>
         </WrapPanel>
         <Button Grid.Row="2" HorizontalAlignment="Right" Click="Button_Click" Name="button1">Refresh</Button>
